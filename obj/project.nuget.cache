@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A41SMLSz+73XcCrKxkiD9JpvIDWWoCskXzJaKjNUxVB9Ey1/NQcB+2j6wCRhovuXiAvSvF9i7WIZR0Svgc4fGQ==",
+  "dgSpecHash": "eXcNLf6z+wd3R4AnoL8oZLraPDzNhgGG7ZtIXxy5pPuacSsnjDt4kr/5jP/4c50m8822ci4F9vdaFGQWyXzoUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyWeb\\BulkyWeb.csproj",
+  "projectFilePath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bardiadelagah\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\bardiadelagah\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

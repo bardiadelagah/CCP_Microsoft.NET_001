@@ -4022,11 +4022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "projectName": "BulkyWeb",
-      "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyWeb\\BulkyWeb.csproj",
+      "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "packagesPath": "C:\\Users\\bardiadelagah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyWeb\\obj\\",
+      "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bardiadelagah\\AppData\\Roaming\\NuGet\\NuGet.Config"
