@@ -6,17 +6,17 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Bulky.DataAccess/1.0.0": {
+      "BulkyBook.DataAccess/1.0.0": {
         "dependencies": {
-          "Bulky.Models": "1.0.0",
-          "Bulky.Utility": "1.0.0",
+          "BulkyBook.Models": "1.0.0",
+          "BulkyBook.Utility": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.0"
         },
         "runtime": {
-          "Bulky.DataAccess.dll": {}
+          "BulkyBook.DataAccess.dll": {}
         }
       },
       "Azure.Core/1.25.0": {
@@ -915,20 +915,20 @@
           }
         }
       },
-      "Bulky.Models/1.0.0": {
+      "BulkyBook.Models/1.0.0": {
         "runtime": {
-          "Bulky.Models.dll": {}
+          "BulkyBook.Models.dll": {}
         }
       },
-      "Bulky.Utility/1.0.0": {
+      "BulkyBook.Utility/1.0.0": {
         "runtime": {
-          "Bulky.Utility.dll": {}
+          "BulkyBook.Utility.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Bulky.DataAccess/1.0.0": {
+    "BulkyBook.DataAccess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1458,12 +1458,12 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
-    "Bulky.Models/1.0.0": {
+    "BulkyBook.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Bulky.Utility/1.0.0": {
+    "BulkyBook.Utility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

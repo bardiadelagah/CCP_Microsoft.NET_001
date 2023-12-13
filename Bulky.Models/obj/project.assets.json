@@ -13,18 +13,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
-      "projectName": "Bulky.Models",
-      "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+      "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+      "projectName": "BulkyBook.Models",
+      "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
       "packagesPath": "C:\\Users\\bardiadelagah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\obj\\",
+      "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bardiadelagah\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
-      "originalTargetFrameworks": [
-        "net8.0"
-      ],
+      "originalTargetFrameworks": ["net8.0"],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -35,9 +33,7 @@
         }
       },
       "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
+        "warnAsError": ["NU1605"]
       }
     },
     "frameworks": {

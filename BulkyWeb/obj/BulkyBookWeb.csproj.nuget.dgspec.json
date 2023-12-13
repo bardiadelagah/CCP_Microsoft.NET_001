@@ -1,24 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj": {}
+    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBookWeb\\BulkyBookBookWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
-        "projectName": "Bulky.DataAccess",
-        "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
+        "projectName": "BulkyBook.DataAccess",
+        "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj",
         "packagesPath": "C:\\Users\\bardiadelagah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bardiadelagah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
+        "originalTargetFrameworks": ["net8.0"],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -26,16 +24,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-                "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+              "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
               }
             }
           }
         },
         "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
+          "warnAsError": ["NU1605"]
         }
       },
       "frameworks": {
@@ -83,21 +79,19 @@
         }
       }
     },
-    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
-        "projectName": "Bulky.Models",
-        "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectName": "BulkyBook.Models",
+        "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
         "packagesPath": "C:\\Users\\bardiadelagah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\obj\\",
+        "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bardiadelagah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
+        "originalTargetFrameworks": ["net8.0"],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -108,9 +102,7 @@
           }
         },
         "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
+          "warnAsError": ["NU1605"]
         }
       },
       "frameworks": {
@@ -136,21 +128,19 @@
         }
       }
     },
-    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj": {
+    "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBookWeb\\BulkyBookBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
-        "projectName": "BulkyBookWeb",
-        "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\BulkyBookWeb.csproj",
+        "projectUniqueName": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBookWeb\\BulkyBookBookWeb.csproj",
+        "projectName": "BulkyBookBookWeb",
+        "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBookWeb\\BulkyBookBookWeb.csproj",
         "packagesPath": "C:\\Users\\bardiadelagah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyWeb\\obj\\",
+        "outputPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bardiadelagah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
+        "originalTargetFrameworks": ["net8.0"],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -158,19 +148,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+              "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.DataAccess\\BulkyBook.DataAccess.csproj"
               },
-              "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-                "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+              "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
               }
             }
           }
         },
         "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
+          "warnAsError": ["NU1605"]
         }
       },
       "frameworks": {
