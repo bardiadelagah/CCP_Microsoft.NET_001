@@ -17,3 +17,4 @@ C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.DataAccess\obj
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json

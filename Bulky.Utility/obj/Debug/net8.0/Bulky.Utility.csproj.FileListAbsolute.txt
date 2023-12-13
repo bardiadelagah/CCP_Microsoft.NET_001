@@ -9,3 +9,4 @@ C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.Utility\obj\De
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\bardiadelagah\VS Code Projects\Microsoft NET\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
