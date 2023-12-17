@@ -8,9 +8,9 @@ a.navbar-brand[b-xaq7ih10jw] {
   word-break: break-all;
 }
 
-a[b-xaq7ih10jw] {
+/* a {
   color: #0077cc;
-}
+} */
 
 .btn-primary[b-xaq7ih10jw] {
   color: #fff;
@@ -18,7 +18,8 @@ a[b-xaq7ih10jw] {
   border-color: #1861ac;
 }
 
-.nav-pills .nav-link.active[b-xaq7ih10jw], .nav-pills .show > .nav-link[b-xaq7ih10jw] {
+.nav-pills .nav-link.active[b-xaq7ih10jw],
+.nav-pills .show > .nav-link[b-xaq7ih10jw] {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
@@ -32,7 +33,7 @@ a[b-xaq7ih10jw] {
 }
 
 .box-shadow[b-xaq7ih10jw] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
 }
 
 button.accept-policy[b-xaq7ih10jw] {
