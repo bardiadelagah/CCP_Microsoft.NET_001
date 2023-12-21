@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyBookWeb\\wwwroot\\Images\\Product\\1fe9a0e7-080f-478a-897c-69129d838378.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\1fe9a0e7-080f-478a-897c-69129d838378.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyBookWeb\\wwwroot\\Images\\Product\\6c660c35-13b7-42b6-8062-9cf160e88fdf.docx",
+      "PackagePath": "staticwebassets\\Images\\Product\\6c660c35-13b7-42b6-8062-9cf160e88fdf.docx"
+    },
+    {
       "Id": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyBookWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyBookWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyBookWeb\\wwwroot\\js\\Product.js",
+      "PackagePath": "staticwebassets\\js\\Product.js"
     },
     {
       "Id": "C:\\Users\\bardiadelagah\\VS Code Projects\\Microsoft NET\\Bulky\\BulkyBookWeb\\wwwroot\\js\\site.js",
